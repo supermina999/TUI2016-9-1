@@ -1,4 +1,4 @@
-var Cell = React.createClass({
+window.Cell = React.createClass({
     getInitialState: function() {
         return {
             cell_type: 0,

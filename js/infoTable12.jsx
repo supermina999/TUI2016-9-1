@@ -1,4 +1,4 @@
-var ResultTable = React.createClass({
+window.ResultTable = React.createClass({
     getInitialState: function() {
         return {
             isEnded: false

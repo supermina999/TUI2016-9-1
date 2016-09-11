@@ -1,4 +1,4 @@
-var Map = React.createClass({
+window.Map = React.createClass({
     getRandomCellType: function(fr) {
         var sum = 0;
         for (var i = 0; i < fr.length; i++) sum += fr[i];
