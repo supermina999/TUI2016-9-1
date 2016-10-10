@@ -1,0 +1,26 @@
+.Cell {
+    display: inline-block;
+}
+
+.cells_row {
+    display: block;
+}
+
+.prettyButton {
+    background-color: yellow;
+    border-radius: 5%;
+    width: 150px;
+}
+
+.prettyButton a {
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    width: 150px;
+}
+
+button {
+    display: block;
+    margin: 5px;
+}
